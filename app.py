@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plot
+import matplotlib.pyplot 
 
 def shorten_categories(categories, cutoff):
     categorical_map = {}
